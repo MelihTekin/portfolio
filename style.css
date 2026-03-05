@@ -10,7 +10,7 @@ body {
     background: #0f172a;
 }
 
-/* ================= SIDEBAR ================= */
+/* Sidebar */
 
 .sidebar {
     position: fixed;
@@ -117,7 +117,7 @@ body {
     color: #38bdf8;
 }
 
-/* ================= MAIN ================= */
+/* MAIN */
 
 .main {
     margin-left: 260px;
@@ -131,7 +131,7 @@ body {
     padding: 80px;
 }
 
-/* ================= HERO / ACCUEIL ================= */
+/* Acceuil*/
 
 .accueil {
     display: flex;
@@ -181,7 +181,7 @@ html {
     scroll-behavior: smooth;
 }
 
-/* ===== A PROPOS ===== */
+/* A PROPOS */
 
 .a-propos {
     min-height: 100vh;
@@ -229,7 +229,7 @@ html {
     color: #ff6b35;
 }
 
-/* ================= FORMATION / TIMELINE ================= */
+/* FORMATION */
 
 .formation {
     background: #0f172a; /* même bleu foncé que ton thème */
@@ -329,7 +329,7 @@ html {
 }
 
 
-/* ================= COMPETENCES ================= */
+/* COMPETENCES */
 
 .competences {
     background: #0f172a;
@@ -413,7 +413,7 @@ html {
     opacity: 0.6;
 }
 
-/* ================= CERTIFICATIONS ================= */
+/* CERTIFICATIONS */
 
 .certifications {
     background: #0f172a;
@@ -473,7 +473,7 @@ html {
     background: #ff824f;
 }
 
-/* ================= EXPERIENCES ================= */
+/* EXPERIENCES */
 
 .experiences {
     background: #0f172a;
@@ -522,7 +522,7 @@ html {
 }
 
 
-/* ================= VEILLE ================= */
+/* VEILLE */
 
 .veille {
     background: #0f172a; /* on garde ton fond */
@@ -594,7 +594,7 @@ html {
     opacity: 0.7;
 }
 
-/* ================= CONTACT ================= */
+/* CONTACT */
 
 .contact {
     background: #0f172a;
@@ -655,4 +655,5 @@ html {
     display: none;
     color: #22c55e;
     font-size: 14px;
+
 }
